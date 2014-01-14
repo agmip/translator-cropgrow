@@ -3,7 +3,7 @@
 
     <groupId>org.agmip.translators</groupId>
     <artifactId>translator-cropgrow-nau</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>translator-cropgrow-nau</name>
@@ -70,7 +70,7 @@
         <connection>scm:git:git://github.com/agmip/translator-cropgrow.git</connection>
         <developerConnection>scm:git:git@github.com:agmip/translator-cropgrow.git</developerConnection>
         <url>https://github.com/agmip/translator-cropgrow</url>
-        <tag>translator-cropgrow-nau-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <build>
         <plugins>
